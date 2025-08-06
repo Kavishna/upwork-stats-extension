@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Upwork Job Detail Enhancer",
+  "version": "1.0",
+  "description": "Displays job stats like proposals and experience at the top of job detail panel.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.upwork.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
