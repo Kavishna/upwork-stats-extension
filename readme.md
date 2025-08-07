@@ -11,7 +11,7 @@ When browsing jobs on Upwork, important information like **proposals count**, **
 ## ✨ Key Features
 
 - **📊 Quick Stats Overview**: See proposals, hires, budget, and duration without scrolling
-- **🎯 Smart Highlighting**: Jobs with previous hires are highlighted with a subtle red background (these are often better opportunities!)
+- **🎯 Smart Highlighting**: Jobs where someone is already hired get highlighted in red - so you don't waste time reading through closed positions!
 - **🌙 Theme Support**: Automatically adapts to Upwork's dark and light themes
 - **🔄 Real-time Updates**: Works with Upwork's dynamic loading - no page refresh needed
 - **📱 Clean Design**: Non-intrusive badges that match Upwork's design language
